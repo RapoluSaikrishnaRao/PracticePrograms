@@ -1,7 +1,7 @@
 package com.example.saikrishna.sampleex;
 
 public class Sync {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         FirstThread first =new FirstThread();
         FirstThread1 firstThread = new FirstThread1(first);
